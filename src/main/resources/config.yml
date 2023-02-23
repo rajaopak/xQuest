@@ -1,0 +1,8 @@
+# Require to fill when using redis
+server-name: ''
+
+redis:
+  host: ''
+  port: 6379
+  password: ''
+  channel: ''

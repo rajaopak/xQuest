@@ -1,0 +1,9 @@
+name: xQuest
+version: '${version}'
+main: id.rajaopak.xquest.XQuest
+api-version: 1.14
+authors: [ rajaopak ]
+description: quest plugin
+softdepend: [ Citizens ]
+commands:
+  quest:
